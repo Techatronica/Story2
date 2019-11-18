@@ -1,3 +1,8 @@
+ experimental
 This is the new story file as the old one was complete rubish!
 It was a dark and stormy night.
 This is complete rubbish!
+
+This is the new story file as the old one was complete rubish! and should not be read by anyone.
+Now adding a new line and trying to find out why there is a conflict between master and experimental.
+ master
